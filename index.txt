@@ -6,13 +6,13 @@
 </head>
 
 <body>
-<!-- Menú de navegación del sitio -->
+<!-- MenÃº de navegaciÃ³n del sitio -->
 <!DOCTYPE html>
 <html lang="es">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Menú HTML con CSS</title>
+    <title>MenÃº HTML con CSS</title>
     <link rel="stylesheet" href="Style.css">
 </head>
 <body>
@@ -21,7 +21,7 @@
   <li><a href="hardware.html">Principios y teorias de la adninistraci&oacute;n</a>
 <li><a href="index.html">la administraci&oacuten de Henri Fayol</a>
 <li><a href="prueba.html">Consejos para tu empresa </a>
-<li><a href="formulario.html">Pongamos a prueba lo que aprendiste</a>
+<li><a href="form.html">Pongamos a prueba lo que aprendiste</a>
 </ul> 
 
 </body>
@@ -57,7 +57,7 @@ que los principios de la administraci&oacute;n son aplicables no solo a empresas
 <h2><center><a href="https://www.biografiasyvidas.com/biografia/f/fayol.htm"> <p style="color:#48C9B0";>biograf&iacute;a de Henri Fayol</p></a></h2></center>
 <br>
 <center><img src="IMG/papeles.jpeg" width="200" height="200"></img></center>
-<iframe width="1280" height="720" src="https://www.youtube.com/embed/n51vttEgYIs" title="Teoría Clásica de la Administración | Principios de Henri Fayol" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="1280" height="720" src="https://www.youtube.com/embed/n51vttEgYIs" title="TeorÃ­a ClÃ¡sica de la AdministraciÃ³n | Principios de Henri Fayol" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 <address> 
 Facultad Nacional de Salud P&uacute;blica
 Calle 62 #52-59
